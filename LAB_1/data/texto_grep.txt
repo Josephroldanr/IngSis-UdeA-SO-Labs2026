@@ -1,0 +1,6 @@
+hola mundo
+esto es una prueba
+aquí aparece foo
+FOO no es lo mismo
+barfood también cuenta
+fin del archivo
