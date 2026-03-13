@@ -9,7 +9,8 @@ Se desarrollaron los programas wcat, wgrep, wzip y wunzip, los cuales permiten m
 
 | NOMBRE      | CORRREO                | DOCUMENTO |
 |-----------------------|-----------------------------------|-----------------|
-| Joseph Roldan Ramirez    | joseph.roldan@udea.edu.co        |       |
+| Joseph Roldan Ramirez    | joseph.roldan@udea.edu.co        |  1115091119     |
+| Juan Esteban Cardonzo Rivera   | juan.cardozor@udea.edu.co       |  1036955040     |
 
 ## Tecnologias
 
