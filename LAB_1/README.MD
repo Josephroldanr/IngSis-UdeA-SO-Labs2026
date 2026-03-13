@@ -16,6 +16,9 @@ Se desarrollaron los programas wcat, wgrep, wzip y wunzip, los cuales permiten m
 
 ![C](https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=c&logoColor=white) ![GCC](https://img.shields.io/badge/Compiler-GCC-green?style=flat-square&logo=gnu&logoColor=white) ![Linux](https://img.shields.io/badge/OS-Linux-yellow?style=flat-square&logo=linux&logoColor=white) ![UNIX](https://img.shields.io/badge/Paradigm-UNIX-orange?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Version%20Control-Git-red?style=flat-square&logo=git&logoColor=white)
 
+## Link
+
+[Explicaciones](LAB_1/README.md)
 
 ## Programa `wcat`
 
