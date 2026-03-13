@@ -1,4 +1,4 @@
-# LABORATORIO 1
+# Laboratorio 1: Comando UNIX en C
 
 En este laboratorio se implementan versiones simplificadas de algunas herramientas básicas de UNIX utilizando el lenguaje C. El objetivo principal es comprender el manejo de archivos, argumentos de línea de comandos y la entrada y salida estándar en un sistema tipo UNIX.
 
