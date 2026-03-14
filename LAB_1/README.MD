@@ -249,7 +249,7 @@ while (fgets(buffer, sizeof(buffer), file) != NULL) {
 #### Caso 1: Patrón encontrado
 
 ```bash
-./bin/wgrep hola data/texto.txt
+./bin/wgrep hola data/texto_grep.txt
 ```
 
 #### Contenido del archivo:
@@ -277,7 +277,7 @@ hola otra vez
 #### Caso 2: Patrón no encontrado
 
 ```bash
-./bin/wgrep adios data/texto.txt
+./bin/wgrep adios data/texto_grep.txt
 ```
 
 #### Salida esperada:
