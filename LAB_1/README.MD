@@ -396,7 +396,7 @@ aaaaaaaaaabbbb
 ```
 
 ```bash
-./bin/wzip data/archivo.txt > data/zip1.z
+./bin/wzip data/zip1.txt > data/zip1.z
 ```
 No se muestra nada en pantalla porque la salida es binaria.
 
