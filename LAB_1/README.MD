@@ -18,7 +18,8 @@ Se desarrollaron los programas wcat, wgrep, wzip y wunzip, los cuales permiten m
 
 ## Presentacion
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ea4xr9EsE28?si=iSwfopS3BFWja0aV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Explicativo](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/73b8703bd617632de206f6b323444d3695c4600f/Portada.png)](https://youtu.be/ea4xr9EsE28)
+
 
 ## Programa `wcat`
 
