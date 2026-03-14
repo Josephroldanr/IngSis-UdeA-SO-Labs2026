@@ -18,7 +18,7 @@ Se desarrollaron los programas wcat, wgrep, wzip y wunzip, los cuales permiten m
 
 ## Presentacion
 
-[Video Explicativo del Laboratorio]()
+[Video Explicativo del Laboratorio](https://youtu.be/ea4xr9EsE28)
 
 ## Programa `wcat`
 
