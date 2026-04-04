@@ -19,21 +19,6 @@ Se implementaron características como el modo interactivo, el modo batch, coman
 
 [![Video Explicativo](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/73b8703bd617632de206f6b323444d3695c4600f/Portada.png)](https://youtu.be/XXXXXXXXXXXXXXX)
 
-## Estructura del proyecto
-
-```
-LAB_2/
-├── bin/
-│   └── wish              ← ejecutable generado al compilar
-├── src/
-│   └── wish.c            ← código fuente del shell
-├── data/
-│   ├── batch.txt         ← archivo de prueba para modo batch
-│   ├── batch2.txt        ← archivo de prueba para comandos paralelos
-│   └── salida.txt        ← se genera al probar redirección con >
-└── README.MD
-```
-
 ## Compilación
 
 Desde la raíz del proyecto `LAB_2/`:
