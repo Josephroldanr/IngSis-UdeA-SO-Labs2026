@@ -17,7 +17,7 @@ Se implementaron características como el modo interactivo, el modo batch, coman
 
 ## Presentación
 
-[![Video Explicativo](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/73b8703bd617632de206f6b323444d3695c4600f/Portada.png)](https://youtu.be/XXXXXXXXXXXXXXX)
+[![Video Explicativo](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/ed2bfce08fbd40318ff62bad775fd41c21462099/LAB_2%20CASOS/Portada.png)](https://youtu.be/XXXXXXXXXXXXXXX)
 
 ## Compilación
 
@@ -274,7 +274,7 @@ bin  data  src  README.MD
 
 El shell imprime el prompt `wish>`, lee el comando, lo ejecuta y vuelve a mostrar el prompt.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso1.gif)
+![CASO 1](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-1.gif)
 
 ---
 
@@ -300,7 +300,7 @@ ls /home
 
 En modo batch el prompt **no se imprime**. Los comandos se ejecutan en orden y el shell termina al llegar al final del archivo.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso2.gif)
+![CASO 2](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-2.gif)
 
 ---
 
@@ -320,7 +320,7 @@ wish> ls
 
 El shell cambia al directorio `/tmp` y el siguiente `ls` muestra su contenido.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso3.gif)
+![CASO 3](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-3.gif)
 
 ---
 
@@ -340,7 +340,7 @@ bin  data  src  README.MD
 
 El shell ahora busca ejecutables tanto en `/bin` como en `/usr/bin`.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso4.gif)
+![CASO 4](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-4.gif)
 
 ---
 
@@ -355,7 +355,7 @@ An error has occurred
 
 Con el path vacío el shell no puede encontrar ningún ejecutable externo. Solo los built-ins (`exit`, `chd`, `route`) siguen funcionando.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso5.gif)
+![CASO 5](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-5.gif)
 
 ---
 
@@ -380,7 +380,7 @@ bin  data  src  README.MD
 
 Tanto `stdout` como `stderr` son redirigidos al archivo. Si el archivo ya existe, se sobrescribe.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso6.gif)
+![CASO 6](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-6.gif)
 
 ---
 
@@ -394,7 +394,7 @@ An error has occurred
 
 Más de un operador `>` en el mismo comando es un error. El shell imprime el mensaje y continúa.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso7.gif)
+![CASO 7](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-7.gif)
 
 ---
 
@@ -420,7 +420,7 @@ hola
 
 Los tres comandos se lanzan en paralelo antes de esperar a que cualquiera termine. El orden de salida puede variar entre ejecuciones.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso8.gif)
+![CASO 8](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-8.gif)
 
 ---
 
@@ -435,7 +435,7 @@ wish>
 
 El built-in `exit` no acepta argumentos. Si se pasan, se imprime el error y el shell continúa funcionando.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso9.gif)
+![CASO 9](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-9.gif)
 
 ---
 
@@ -450,7 +450,7 @@ wish>
 
 Si el ejecutable no se encuentra en ningún directorio del path, se imprime el mensaje de error y el shell continúa.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso10.gif)
+![CASO 10](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-10.gif)
 
 ---
 
@@ -465,7 +465,7 @@ $ echo $?
 
 El shell solo acepta cero o un argumento. Con más de uno imprime el error y termina con código de salida `1`.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso11.gif)
+![CASO 11](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-11.gif)
 
 ---
 
@@ -480,7 +480,7 @@ $ echo $?
 
 Al presionar `Ctrl+D` se envía EOF. El shell llama a `exit(0)` y termina limpiamente.
 
-![wish](https://github.com/Josephroldanr/IngSis-UdeA-SO-Labs2026/blob/main/LAB_2/data/wish_caso12.gif)
+![CASO 12](https://github.com/Josephroldanr/sistemas-operativos-labs/blob/fa23dcbc1010819b7a4e034af6df23c327b0f898/LAB_2%20CASOS/LAB_2-Caso-12.gif)
 
 ---
 
